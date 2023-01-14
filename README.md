@@ -4,7 +4,7 @@
 
 I'm learning how to do small projects as part of the [Result school](https://result.school/) marathon.
 
-Here I learned how to create mini-games from the board and colored squares.
+Here I learned how to create [mini-games](https://shevmellow.github.io/project-4-5/) from the board and colored squares.
 The Math.random principle in JavaScript and the hover pseudo-selector in css were used to dynamically create elements.
 
 Colors were take in [Colours.cafe](https://www.instagram.com/colours.cafe/)
